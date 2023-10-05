@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "backgroundImage": "/images/banners/banner1.jpg",
+    "subtitle": "50% off in all products",
+    "title": "Kids Fashion",
+    "url": "/products/grid-left-sidebar"
+  },
+  {
+    "id": "2",
+    "backgroundImage": "/images/banners/banner2.jpg",
+    "subtitle": "40% off in all products",
+    "title": "Kids Shoes",
+    "url": "/products/grid-left-sidebar"
+  },
+  {
+    "id": "3",
+    "backgroundImage": "/images/banners/banner3.jpg",
+    "subtitle": "Taking your Viewing Experience to Next Level",
+    "title": "Summer Sale",
+    "url": "/products/grid-left-sidebar"
+  }
+]
