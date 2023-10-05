@@ -111,7 +111,9 @@ const FooterOne = () => {
                     </li>
                     <li>
                       <li>
-                        <Link href="/shop/grid-left-sidebar">Kids Suits</Link>
+                        <Link href="/shop/grid-left-sidebar">
+                          Kids Winter Collection
+                        </Link>
                       </li>
                       <Link href="/shop/grid-left-sidebar">Kids Shoes</Link>
                     </li>
